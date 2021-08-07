@@ -1,25 +1,31 @@
----  
-title : "테스트 글입니다."  
-excerpt : "last_modified_at: 2021-08-07"  
+---
+title : "테스트 작성 글입니다."  
+excerpt : "last_modified_at: 2021-07-24"  
 categories:  
 - Blog  
 tags:  
-- Blog  
-last_modified_at: 2021-08-07T08:16:00~18:00  
+- Blog        
+last_modified_at: 2021-07-24T08:20:00~23:00  
 ---  
 
-# 큰제목  
-## 작은제목  
+여기다가 쓰고 싶은 글을 마크다운으로 작성하면 된다.  
 
-Hello myBlog!!!  
+## 큰 제목  
+### 작은 제목.  
+구분선은 (---)  
+---  
+내용  
 
-> 1234  
+줄바꿈은 스페이스바 두 번 누르기  
+줄바꿈은 스페이스바 두 번 누르기  
+모든 마크다운 기능 끝 자락에는 스페이스바 두 번  
 
-**jkjk**  
+> 인용글  
 
-*kjkj*  
+두꺼운 글씨체는 사이에 **끼워넣기**  
+기울임 글씨체는 사이에 *끼워넣기*   
 
 ```python  
-print("hello!!")
-```  
+  print("hello world!")
+```
 
